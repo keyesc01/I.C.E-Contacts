@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">I.C.E Contact</string>
+    <string name="text">
+       "This application is used for I.C.E (In Case of Emergency) contacts."
+        Simply select a contact from the contact list and it will be stored in the notification bar until the device has been reset or restarted.
+        If you press the notification a phonce call will be made to the number that you wanted to use as your I.C.E contact.
+    </string>
+</resources>
